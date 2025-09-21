@@ -1,0 +1,12 @@
+NumPy: 1.21.6
+Pandas: 1.5.3
+Matplotlib: 3.7.1
+Scikit-learn: 1.6.1
+OpenCV: 4.5.5
+NLTK: 3.9.1
+PyTorch: 2.8.0+cpu
+TensorFlow: 2.10.0
+Flask: 3.1.2
+FastAPI: 0.116.1
+
+All core packages OK!
