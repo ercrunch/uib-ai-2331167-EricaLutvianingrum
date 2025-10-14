@@ -1,0 +1,10 @@
+Fuzzy Sleep Efficiency
+----------------------
+Dataset: Sleep Efficiency Dataset
+Notebook: fuzzy_sleep_efficiency.ipynb
+
+Description: Project ini memanfaatkan fuzzy logic untuk menilai kualitas tidur seseorang berdasarkan beberapa faktor, seperti: lama tidur, konsumsi kafein dan alkohol, frekuensi olahraga, serta seberapa sering seseorang terbangun di malam hari.
+Dari hasil perhitungan yang ada, sistem menghasilkan skor kualitas tidur (sleep_quality_score), kategori kualitas tidur (sleep_quality_label), dan saran tambahan berupa estimasi lama tidur yang direkomendasikan (recommended_sleep_extension_h).
+Project ini juga menampilkan visualisasi akhir dalam bentuk histogram untuk melihat sebaran data dan hasil prediksi kualitas tidur.
+
+link repository: https://github.com/ercrunch/uib-ai-2331167-EricaLutvianingrum
