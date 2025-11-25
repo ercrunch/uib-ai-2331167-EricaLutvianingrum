@@ -1,3 +1,0 @@
-Link drive google collab Tugas Pertemuan 7: Brain Tumor Detection.
----
-https://colab.research.google.com/drive/1ZkpgA6WBfuuldNiEFzKkDUyO2ujIwex9?usp=sharing
